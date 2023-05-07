@@ -19,7 +19,6 @@ maintainer:         epiclycoolgaemer@gmail.com
 -- A copyright notice.
 -- copyright:
 -- category:
-extra-source-files: CHANGELOG.md
 
 executable tabstosemis
     main-is:          Main.hs
