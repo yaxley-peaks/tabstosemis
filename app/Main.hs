@@ -1,6 +1,6 @@
 module Main where
 
-import Data.List ( intercalate )
+import Data.List (intercalate)
 import System.Environment (getArgs)
 
 replaceInitial :: Char -> String -> String -> String
