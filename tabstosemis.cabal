@@ -3,16 +3,16 @@ name:               tabstosemis
 version:            1.0.0
 
 -- A short (one-line) description of the package.
--- synopsis:
+synopsis:   Convert tabs (and spaces) to semicolons
 
 -- A longer description of the package.
 -- description:
 
 -- A URL where users can report bugs.
--- bug-reports:
+bug-reports: mailto:yax@yaxley.in
 
 -- The license under which the package is released.
--- license:
+license: MIT
 author:             yaxley-peaks
 maintainer:         epiclycoolgaemer@gmail.com
 
